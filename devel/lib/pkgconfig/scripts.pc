@@ -1,0 +1,8 @@
+prefix=/home/toilab/toibot_ws/devel
+
+Name: scripts
+Description: Description of scripts
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/toilab/toibot_ws/devel/lib 
+Requires: 
